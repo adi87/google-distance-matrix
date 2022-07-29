@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ecteodoro/google-distance-matrix",
   "dependencies": {
     "debug": "^2.1.0",
-    "qs-google-signature": "^1.1.1",
+    "qs-google-signature": "git+https://github.com/Lexcelon/qs-google-signature2#master",
     "request": "^2.36.0"
   }
 }
